@@ -1,3 +1,5 @@
+` Note: Not working as expected ( will update soon)`
+
 # Drum-Kit
 A simple Drum-Kit webpage.
 
